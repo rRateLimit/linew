@@ -1,0 +1,9 @@
+This is a very long line that should be wrapped at the specified width to make it more readable and easier to work with in various text editors and terminals.
+
+    This is an indented paragraph that contains a lot of text. It should maintain its indentation when wrapped to preserve the document structure and formatting.
+
+Short line.
+
+Averylongwordthathasnospacesandneedstobeforciblybrokenintomultiplelinestofitwithinthespecifiedwidth.
+
+日本語のテキストも正しく折り返されることを確認します。これは長い日本語の文章で、指定された幅で適切に折り返される必要があります。
